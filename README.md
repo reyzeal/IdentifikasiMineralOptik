@@ -1,3 +1,3 @@
 # IdentifikasiMineralOptik
 
-fu
+fu2
