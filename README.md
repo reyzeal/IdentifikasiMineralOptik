@@ -1,1 +1,3 @@
 # IdentifikasiMineralOptik
+
+Rizal
