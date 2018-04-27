@@ -1,3 +1,3 @@
 # IdentifikasiMineralOptik
 
-fuad njajal
+rizal njajal
