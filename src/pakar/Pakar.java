@@ -23,7 +23,10 @@ public class Pakar {
         BentukPanel bp = new BentukPanel();
         t.setVisible(true);
         t.setContentPane(bp);
+        
         t.repaint();
+        // njajal
+        
     }
     
 }
